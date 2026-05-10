@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ruff
+.ruff_cache/
+
+# Data
+data/val2014*
+backup/
+*.pkl
+data/eval
+
+# Models
+models/*
+!models/.gitkeep
+
+# Results
+results*/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Log
+logs/*
+
+# transformers
+transformers/
+
+# lock
+*.lock
