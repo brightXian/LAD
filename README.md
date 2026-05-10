@@ -13,13 +13,9 @@
 
 ---
 
-## 🔎 Method
+## 📖 Abstract
 
-<p align="center">
-  <img src="assets/method.png" width="95%"/>
-</p>
-
----
+**Multimodal Large Language Models (MLLMs) have shown strong performance in multi-image cross-modal retrieval, yet suffer from severe position bias, where predictions are dominated by input order rather than semantic relevance. Through empirical analysis, we identify a phenomenon termed Logit-Attention Divergence, in which output logits are heavily biased while internal attention maps remain well-aligned with relevant visual evidence. This observation reveals a fundamental limitation of existing logit-level calibration methods such as PriDe. Based on this insight, we propose a training-free, attention-guided debiasing framework that leverages intrinsic attention signals for instance-level correction at inference time, requiring only a minimal calibration set with negligible computational overhead. Experiments on MS-COCO-based benchmarks show that our method substantially improves permutation invariance and achieves state-of-the-art performance, enhancing accuracy by over 40% compared to baselines.**
 
 ## ⚒️ TODO
 
