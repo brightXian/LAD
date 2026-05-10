@@ -27,7 +27,6 @@ env/
 # Data
 data/val2014*
 backup/
-*.pkl
 data/eval
 
 # Models
