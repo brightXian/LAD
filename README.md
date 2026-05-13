@@ -1,12 +1,13 @@
 # Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2605.11591-b31b1b.svg)](https://arxiv.org/abs/2605.11591)
 [![ICML 2026](https://img.shields.io/badge/ICML-2026-blue.svg)]()
 
 ---
 
 ## 🔥 News
 
+- **2026-05-13** — 📄 Paper released on arXiv
 - **2026-05-10** — 🚀 Code released
 - **2026-05-08** — 📁 Repository created  
 - **2026-04-30** — 🎉 Accepted to **ICML 2026 Main Track**
@@ -20,7 +21,7 @@
 ## ⚒️ TODO
 
 - [x] Release code
-- [ ] Release arXiv paper
+- [x] Release arXiv paper
 
 ---
 
