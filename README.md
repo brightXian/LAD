@@ -90,3 +90,15 @@ uv run python -m src.evaluate \
 uv run python -m src.metric \
   --result results/eval_LLaVA-OneVision-1.5-8B-Instruct_agd_random_views4_shuffles5_samples1000.json
 ```
+## 📚 Citation
+
+If you want to cite this work, use:
+
+```bibtex
+@article{xian2026logit,
+  title={Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration},
+  author={Xian, Mingtao and Yang, Yifeng and Gu, Qinying and Wang, Xinbing and Ye, Nanyang},
+  journal={arXiv preprint arXiv:2605.11591},
+  year={2026}
+}
+```
